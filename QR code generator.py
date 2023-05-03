@@ -1,6 +1,6 @@
-print("done")
-
 import pyqrcode
+
+print("done")
 
 s = str(input("Enter the site for which you want to have QR code for: "))
 

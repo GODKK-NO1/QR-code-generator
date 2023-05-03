@@ -9,3 +9,9 @@
 #You will also have to install pyqrcode in your command prompt.
 
 #You can do it by pasting this code in the terminal or command prompt: pip install pyqrcode
+
+#After running the code it will ask you for the website for which you want the code.
+
+#After entering the website name it will create a new file in the same folder called 'QR code'.
+
+#you will see the QR code in that file.
